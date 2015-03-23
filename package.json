@@ -4,7 +4,8 @@
   "description": "book gymbox classes programatically so you can go to bed early",
   "main": "app.js",
   "dependencies": {
-    "node-horseman": "^0.9.7"
+    "node-horseman": "^0.9.7",
+    "node-schedule": "^0.2.6"
   },
   "devDependencies": {},
   "scripts": {
