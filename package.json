@@ -4,11 +4,17 @@
   "description": "book gymbox classes programatically so you can go to bed early",
   "main": "app.js",
   "dependencies": {
+    "async": "^1.5.2",
+    "lodash": "^4.6.1",
+    "moment": "^2.11.2",
     "node-horseman": "^2.8.2",
-    "node-schedule": "^0.2.6"
+    "node-schedule": "^0.2.6",
+    "q": "^1.4.1",
+    "request": "^2.69.0"
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "@sam_billingham",
